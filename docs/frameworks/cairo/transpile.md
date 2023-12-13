@@ -117,7 +117,7 @@ giza versions list --model-id 29
     "size": 52735,
     "status": "COMPLETED",
     "message": "Transpilation Successful!",
-    "description": "Intial version",
+    "description": "Initial version",
     "created_date": "2023-09-13T12:08:38.177605",
     "last_update": "2023-09-13T12:08:43.986137"
   },
@@ -126,7 +126,7 @@ giza versions list --model-id 29
     "size": 52735,
     "status": "COMPLETED",
     "message": "Transpilation Successful!",
-    "description": "Intial version",
+    "description": "Initial version",
     "created_date": "2023-09-13T12:11:30.165440",
     "last_update": "2023-09-13T12:11:31.625834"
   }
